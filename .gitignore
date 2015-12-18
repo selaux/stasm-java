@@ -1,0 +1,5 @@
+src/**/*.so
+src/**/*.o
+src/**/*.h
+src/**/*.class
+src/**/*.jar
