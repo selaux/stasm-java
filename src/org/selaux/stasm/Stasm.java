@@ -27,5 +27,5 @@ public class Stasm {
       return output;
   }
 
-  protected native void nativeSearch(long input, long output);
+  protected native synchronized void nativeSearch(long input, long output);
 }
